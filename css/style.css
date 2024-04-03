@@ -259,8 +259,6 @@ span {
     margin: auto;
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    box-shadow: inset -10px -10px 10px rgba(0, 0, 0, 0.5),
-                inset 10px 10px 10px rgba(0, 0, 0, 0.5);
 }
 
 .tentang h2 {
@@ -311,8 +309,6 @@ span {
     margin: auto;
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    box-shadow: inset -10px -10px 10px rgba(0, 0, 0, 0.5),
-                inset 10px 10px 10px rgba(0, 0, 0, 0.5);
 }
 
 .pendaftaran {
